@@ -40,4 +40,38 @@ All case studies and real-world examples draw from biological and medical datase
 
 
 
+# ML Resources 
+
+**An open source Data Science repository with links and tutorials for data science.**
+
+## Learn Data Science
+
+The programming languages _Python_ and _R_ dominate data science. For visualization, _Vega_, _Vega-Lite_, and _D3_ are excellent languages.
+
+### Step 1: Programming
+
+To start with data science, learning programming languages such as Python and R is essential. Here are some resources to get you started:
+
+- [Python for Data Science](https://www.python.org/about/gettingstarted/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+
+![Step 1 Programming](https://raw.githubusercontent.com/aiskunks/Skunks_Skool/main/Art/Skunks_Skool_Step1.png)
+
+### Step 2: Build Simple Supervised Models
+
+Understanding the basics of supervised learning is crucial. Stanford statisticians Trevor Hastie and Robert Tibshirani offer an outstanding course and book on statistical learning:
+
+- _An Introduction for Statistical Learning_ - [Free PDF of the 2nd edition](https://www.statlearning.com/)
+
+![Step 2 Supervised Models](https://raw.githubusercontent.com/aiskunks/Skunks_Skool/main/Art/Skunks_Skool_Step2.png)
+
+### Additional Learning Resources
+
+- [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
+- [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
+- [Youth4Work Algorithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [3Blue1Brown](https://www.3blue1brown.com/)
+- [QuantConnect Forum](https://www.quantconnect.com/forum/discussions/1/interesting)
+- [CodeProject Algorithms](https://www.codeproject.com/Forums/326859/Algorithms)
+
 
